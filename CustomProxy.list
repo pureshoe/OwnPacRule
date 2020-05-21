@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,xinjiecloud.com
 DOMAIN-SUFFIX,microsoftedge.microsoft.com
 DOMAIN-KEYWORD,avmoo
+# > Germany
+DOMAIN-SUFFIX,deutao.com,PROXY
+DOMAIN-SUFFIX,amazon.de,PROXY
 # > Speed Test
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,netspeedtestmaster.com
