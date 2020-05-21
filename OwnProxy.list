@@ -1,0 +1,17 @@
+# > own
+DOMAIN-SUFFIX,xinjiecloud.com
+DOMAIN-SUFFIX,microsoftedge.microsoft.com
+DOMAIN-KEYWORD,avmoo
+# > Speed Test
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,netspeedtestmaster.com
+DOMAIN,speedtest.macpaw.com
+# > Tec
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,elastic.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,spring.io
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-KEYWORD,kirincomm
